@@ -1,6 +1,6 @@
 # Book settings
-title: CPSC 455 
-author: Firas Moosvi and Ian McLean
+title: CPSC 430 
+author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
@@ -23,7 +23,7 @@ html:
   comments:
     hypothesis: false
     utterances:
-      repo: "UBC-CS/cpsc455"
+      repo: "UBC-CS/cpsc430"
     dokieli: false
   extra_footer : |
       <div>
@@ -37,7 +37,7 @@ html:
 #   thebe              : true
 
 repository: 
-  url          : https://github.com/UBC-CS/cpsc455
+  url          : https://github.com/UBC-CS/cpsc430
   path_to_book : ""
   branch       : main
 
@@ -67,42 +67,44 @@ sphinx:
 
       # Course Information
       COURSE_CODE: "CPSC 455"
-      SECTION: "901"
+      SECTION: "911"
       CREDITS: "3"
-      TITLE: "Applied Industry Practices"
-      PREREQS: "Pre-reqs: One of CPSC 310, CPEN 321."
+      TITLE: "Computers and Society"
+      PREREQS: "Pre-reqs: 3 credits of Computer Science and at least third-year standing."
       COREQS: "N/A"
-      TERM: "2024 Summer Term"
-      ROOM: "Online"
-      MEETING_TIMES: "Every other Saturday starting May 11th"
+      TERM: "2024 Summer Term 1"
+      ROOM: "DMP 110"
+      MEETING_TIMES: "Monday, Wednesday, Friday 10:00 - 12:30"
       # FORMAT: "Lectures, Labs, Tutorials will all be running in-person."
 
       # Important Links
-      CANVAS_ID: "142514"
+      CANVAS_ID: "140669"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/cpsc455/2024S/"
-      FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/xyhhmY)"
-      TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website and linked materials."
-      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cpsc455&term=2024_S)"
+      COURSE_LINK: "https://firas.moosvi.com/courses/cpsc430/2024_S1/"
+      FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/sguPRS)"
+      TEXTBOOK: "Ethics for the Information Age, 4th Edition, by Michael J. Quinn."
+      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cpsc430&term=2024_S1)"
       ASSOCIATE_HEAD: "Associate Head [associate.head@fakeemail.ca](mailto:associate.head@fakeemail.ca)"
-      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410/?course=cpsc455&term=2024_S)"
+      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410/?course=cpsc430&term=2024_S1)"
 
       # Withdrawal Dates and Exam Period
       # https://vancouver.calendar.ubc.ca/dates-and-deadlines
-      W_DATE_1: "11:59 PDT on January 19, 2024"
-      W_DATE_2: "11:59 PDT on March 1, 2024"
-      W_DATE_3: "11:59 PDT on March 1, 2024"
-      EXAM_PERIOD: "Tuesday April 16th - Saturday, April 27"
+      W_DATE_1: "11:59 PDT on May 20, 2024"
+      W_DATE_2: "11:59 PDT on June 07, 2024"
+      W_DATE_3: "11:59 PDT on June 07, 2024"
+      EXAM_PERIOD: "Monday June 24 - Friday June 28"
 
       # Course Policies
-      GRACE_PERIOD: "48 hour"
+      GRACE_PERIOD: "24 hour"
 
       # TA Names
-      TA1: "Braeden Fong"
-      TA1pronounce: "BRAY-DIN"
-      TA2: "Manushree Singhania"
+      TA1: "Maissan Bazazeh"
+      TA1pronounce: ""
+      TA2: "Rina Forristal"
       TA2pronounce: "MA-NU-SHREE"
-      TA3: "Minh Anh Nguyen"
-      TA3pronounce: "Ming Ang"
+      TA3: "Justin Rahardjo"
+      TA3pronounce: ""
+      TA4: "Mobina Shahbandeh"
+      TA3pronounce: ""
