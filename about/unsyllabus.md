@@ -154,13 +154,14 @@ In this course, we will be using the following required learning technologies (p
 
 ```{include} unsyllabus_bits/withdrawing.md
 ```
--->
 
 (acknowledgements)=
 ## Acknowledgements
 
 ```{include} unsyllabus_bits/acknowledgements.md
 ```
+
+-->
 
 
 
