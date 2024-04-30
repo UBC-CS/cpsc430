@@ -33,6 +33,9 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build .
+
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
         
     # Push to server
     - name: rsync and ssh
@@ -50,5 +53,3 @@ jobs:
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME/$TERM
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v3
