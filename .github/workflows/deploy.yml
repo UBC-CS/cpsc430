@@ -53,3 +53,22 @@ jobs:
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME/$TERM
+
+    # Push to CS server
+    - name: rsync and ssh to CS
+      env:
+        COURSE_REMOTE_HOST: "kunghit.students.cs.ubc.ca"
+        COURSE_REMOTE_USER: "cs-430"
+        CS_REMOTE_USER: "firasm"
+        CS_TUNNEL: "remote.cs.ubc.ca"
+        CS_REMOTE_KEY: ${{ secrets.CS_REMOTE_KEY }}
+        TERM: "2024_S1"
+        LOCAL_DIR: "_build/html/"
+      run: |
+        mkdir ~/.ssh
+        echo "$CS_REMOTE_KEY" > ~/.ssh/id_rsa
+        ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
+        chmod 600 ~/.ssh/id_rsa
+
+        # send files all in one shot
+        rsync -navz -e 'ssh -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@COURSE_REMOTE_HOST:public_html/$TERM
