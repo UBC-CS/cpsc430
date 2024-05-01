@@ -61,12 +61,12 @@ jobs:
         COURSE_REMOTE_USER: "cs-430"
         CS_REMOTE_USER: "firasm"
         CS_TUNNEL: "remote.cs.ubc.ca"
-        CS_REMOTE_KEY: ${{ secrets.CS_REMOTE_KEY }}
+        REMOTE_KEY: ${{ secrets.FIRAS_SERVER_SSH_KEY }}
         TERM: "2024_S1"
         LOCAL_DIR: "_build/html/"
       run: |
-        mkdir ~/.ssh
-        echo "$CS_REMOTE_KEY" > ~/.ssh/id_rsa
+        mkdir -p ~/.ssh
+        echo "$REMOTE_KEY" > ~/.ssh/id_rsa
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
 
