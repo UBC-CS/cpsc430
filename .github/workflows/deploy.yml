@@ -59,6 +59,7 @@ jobs:
         CS_REMOTE_USER: "firasm"
         CS_TUNNEL: "remote.cs.ubc.ca"
         REMOTE_KEY: ${{ secrets.FIRAS_SERVER_SSH_KEY }}
+        FIRAS_KEYBOARDMBP: ${{ secrets.FIRAS_KEYBOARDMBP }}
         TERM: "2024_S1"
         LOCAL_DIR: "_build/html/"
       run: |
@@ -75,8 +76,12 @@ jobs:
         # Set up a tunnel in the background
         ssh -fN -L 2222:$COURSE_REMOTE_HOST:22 firasm@remote.cs.ubc.ca -p 22
 
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v3
+    # - name: Setup tmate session
+    #   uses: mxschmitt/action-tmate@v3
 
         # send files all in one shot
-        # rsync -avz -e 'ssh -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@COURSE_REMOTE_HOST:public_html/$TERM
+        rsync -avz -e 'ssh -o StrictHostKeyChecking=accept-new -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@COURSE_REMOTE_HOST:public_html/$TERM
+
+        # ssh -p 2222 -o StrictHostKeyChecking=accept-new cs-430@localhost
+
+        # rsync -navz -e 'ssh -o StrictHostKeyChecking=accept-new -J firasm@remote.cs.ubc.ca' ./README.md cs-430@kunghit.students.cs.ubc.ca:~/test_firas/
