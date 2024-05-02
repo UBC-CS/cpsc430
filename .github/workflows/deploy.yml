@@ -33,9 +33,6 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build .
-
-    # - name: Setup tmate session
-    #   uses: mxschmitt/action-tmate@v3
         
     # Push to server
     - name: rsync and ssh
@@ -53,7 +50,9 @@ jobs:
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME/$TERM
-
+    # - name: Setup tmate session
+    #   uses: mxschmitt/action-tmate@v3
+      
     # Push to CS server
     - name: rsync and ssh to CS
       env:
@@ -61,14 +60,14 @@ jobs:
         COURSE_REMOTE_USER: "cs-430"
         CS_REMOTE_USER: "firasm"
         CS_TUNNEL: "remote.cs.ubc.ca"
-        CS_REMOTE_KEY: ${{ secrets.CS_REMOTE_KEY }}
+        REMOTE_KEY: ${{ secrets.FIRAS_SERVER_SSH_KEY }}
         TERM: "2024_S1"
         LOCAL_DIR: "_build/html/"
       run: |
-        mkdir ~/.ssh
-        echo "$CS_REMOTE_KEY" > ~/.ssh/id_rsa
-        ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
+        mkdir -p ~/.ssh
+        echo "$REMOTE_KEY" > ~/.ssh/id_rsa
+        ssh-keyscan -H $CS_TUNNEL >> ~/.ssh/known_hosts
+        ssh-keyscan -H $COURSE_REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
-
         # send files all in one shot
-        rsync -navz -e 'ssh -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@COURSE_REMOTE_HOST:public_html/$TERM
+        rsync -avz -e 'ssh -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@COURSE_REMOTE_HOST:public_html/$TERM
