@@ -50,8 +50,9 @@ jobs:
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME/$TERM
-    # - name: Setup tmate session
-    #   uses: mxschmitt/action-tmate@v3
+    
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
       
     # Push to CS server
     - name: rsync and ssh to CS
