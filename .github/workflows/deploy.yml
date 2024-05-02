@@ -67,8 +67,13 @@ jobs:
       run: |
         mkdir -p ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
-        ssh-keyscan -H $CS_TUNNEL >> ~/.ssh/known_hosts
-        ssh-keyscan -H $COURSE_REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H $CS_TUNNEL >> ~/.ssh/known_hosts
+
+        echo "$FIRAS_KEYBOARDMBP" > ~/.ssh/id_ed25519
+        chmod 600 ~/.ssh/id_ed25519
+
+        echo "$FIRAS_KUNGHIT_KNOWN_HOSTS" >> ~/.ssh/known_hosts
+        
         # send files all in one shot
         rsync -avz -e 'ssh -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@COURSE_REMOTE_HOST:public_html/$TERM
