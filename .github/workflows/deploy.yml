@@ -77,10 +77,13 @@ jobs:
         # Set up a tunnel in the background
         ssh -fN -L 2222:$COURSE_REMOTE_HOST:22 firasm@remote.cs.ubc.ca -p 22
 
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
+
         # send files all in one shot
         # rsync -avzr -e 'ssh -p 2222 -o StrictHostKeyChecking=no -J $CS_REMOTE_USER@$CS_TUNNEL' $LOCAL_DIR $COURSE_REMOTE_USER@$COURSE_REMOTE_HOST:public_html/$TERM
 
-        rsync -avzr -e 'ssh -p 2222 -o StrictHostKeyChecking=no -J firasm@remote.cs.ubc.ca' _build/html/ cs-430@kunghit.students.cs.ubc.ca:public_html/2024_S1/
+    #     rsync -avzr -e 'ssh -p 2222 -o StrictHostKeyChecking=no -J firasm@remote.cs.ubc.ca' _build/html/ cs-430@kunghit.students.cs.ubc.ca:public_html/2024_S1/
 
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v3
+    # - name: Setup tmate session
+    #   uses: mxschmitt/action-tmate@v3
