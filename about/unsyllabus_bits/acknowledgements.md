@@ -1,9 +1,7 @@
-Credit for the creation of this course goes largely to contributions by:
 
-- Danya Karras, UBC Alum, D2L Software Engineering Manager
-- Ian McLean, UBC Alum, D2L Sr. dev
-- Stephanie Mah, UBC Alum, Produce8 Software Developer
-- Steve Wolfman, UBC Professor of Teaching
+- [Header Image - Photo by Rakicevic Nenad from Pexels](https://www.pexels.com/photo/silhouette-of-person-holding-glass-mason-jar-1274260/)
+- [Course Logo - Photo by Warren Griffiths](https://pixabay.com/photos/sunset-sky-clouds-nature-landscape-7760143/)
+
 
 <!-- While completing her Physics degree, Danya realized she loved building things with code, and entered the BCS program. On the side, she fueled her passion for education by teaching piano, ballet, and Ukrainian Folk Dance. Combining all of her skills, Danya now has a job in Ed Tech, and has a side job (this course) in Tech Ed. As an Engineering Manager at D2L, Danya continues to be a champion for learning by hosting demos, volunteering at tech events, and convincing others to join her in building cool things. -->
 
