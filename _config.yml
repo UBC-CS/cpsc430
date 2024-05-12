@@ -84,10 +84,12 @@ sphinx:
       ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
       COURSE_LINK: "https://firas.moosvi.com/courses/cpsc430/2024_S1/"
       FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/sguPRS)"
-      TEXTBOOK: "Ethics for the Information Age, 4th Edition, by Michael J. Quinn."
+      TEXTBOOK: "Ethics for the Information Age, 8th Edition, by Michael J. Quinn."
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cpsc430&term=2024_S1)"
       ASSOCIATE_HEAD: "Associate Head [associate.head@fakeemail.ca](mailto:associate.head@fakeemail.ca)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410/?course=cpsc430&term=2024_S1)"
+      PERUSALL_ENROL: "https://app.perusall.com/join/moosvi-n8x4l"
+      MTA_ENROL: "aurora100"
 
       # Withdrawal Dates and Exam Period
       # https://vancouver.calendar.ubc.ca/dates-and-deadlines
@@ -97,7 +99,7 @@ sphinx:
       EXAM_PERIOD: "Monday June 24 - Friday June 28"
 
       # Course Policies
-      GRACE_PERIOD: "24 hour"
+      GRACE_PERIOD: "6 hour"
 
       # TA Names
       TA1: "Maissan Bazazeh"

@@ -112,20 +112,21 @@ All course content, references, and resources provided in this course are free a
 In this course, we will be using the following required learning technologies (privacy policies linked): 
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
+- [MTA](https://mta.students.cs.ubc.ca)
+    - MechanicalTA (MTA) doesn't yet have a privacy policy as it's a home grown tool local to UBC
 - [Ed Discussion](https://edstem.org/privacy)
-- [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement)
-- [PrairieLearn](https://www.prairielearn.com/legal/privacy)
+- [Perusall](https://app.perusall.com/legal/privacy)
 
 ```{include} unsyllabus_bits/tools/canvas.md
+```
+
+```{include} unsyllabus_bits/tools/mta.md
 ```
 
 ```{include} unsyllabus_bits/tools/ed_discussion.md
 ```
 
-```{include} unsyllabus_bits/tools/github.md
-```
-
-```{include} unsyllabus_bits/tools/prairielearn.md
+```{include} unsyllabus_bits/tools/perusall.md
 ```
 
 ### What type of information will I collect about you in this course?
@@ -162,8 +163,6 @@ In this course, we will be using the following required learning technologies (p
 ```
 
 -->
-
-
 
 (unsyllabus_land-acknowledgement)=
 ## Land Acknowledgement

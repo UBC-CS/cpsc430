@@ -1,21 +1,29 @@
 The grading scheme for this course is:
 
-| Item                 | Weight          | Due date(s)       |
-|----------------------|-----------------|-------------------|
-| Learning Logs        | 5% (10 x 0.5%)  | Saturdays at 6 PM |
-| Problems of the Week | 25% (10 x 2.5%) | Fridays at 6 PM   |
-| Labs                 | 5% (10 x 0.5%)  | Fridays at 6 PM   |
-| Programming Projects | 15% (3 x 5%)    | Three in the term |
-| Tests (Examlets)     | 30% (6 x 5%)    | \~ Bi-weekly      |
-| Final Exam           | 20%             | TBD               |
+| Item                      | Weight        | Due date(s)       |
+|---------------------------|---------------|-------------------|
+| Essay Quizzes             | 40% (10 x 4%) | Saturdays at 6 PM |
+| Peer Reviews              | 20% (10 x 2%) | Fridays at 6 PM   |
+| Class Discussions         | 15%           | Every Class       |
+| Final Exam                | 25%           | TBD               |
+| -----------------         | ------        | -----------       |
+| Perusall OR Reading Notes | +2% Bonus     | Weekly            |
 
-There will be 6 tests in this course in an (approximately) bi-weekly schedule.
-<!-- For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken. -->
+There will be 10 essay quizzes in this course happening approximately twice a week.
+For each of the essay quizzes, there will be a resubmission opportunity to apply feedback you received, we expect your score to only improve after the resubmission, so the resubmission score will be used as your final score.
 
+```{attention}
+There are ten chapters in our textbook this term and each chapter has a reading annotation assignment on Perusall. This is optional and successful completion of these assignments will grant you a 2% bonus on the course.
+
+You may also get the same 2% bonus if you demonstrate an equivalent proficiency of reading/annotating the textbook using your own system.
+```
+
+<!-- 
 ```{attention} 
 All due dates in this course have an automatic 48 hour grace period after the due dates listed above.
 Any submissions submitted past the grace period will not be graded (with some exceptions).
 ```
+-->
 
 ```{note}
 Please refer to [this page](https://students.ubc.ca/enrolment/exams/exam-clashes-hardships-cancellations) for details on exam clashes, hardships, and cancellations.
