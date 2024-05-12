@@ -22,6 +22,7 @@ To develop mastery in a concept, students must first acquire the necessary skill
 The terms "knowledge transfer" and "sense-making" applied in this context is generally attributed to [Dr. Eric Mazur](https://mazur.harvard.edu/files/mazur/files/flip_your_course_online_07.pdf). 
 ```
 
+<!-- 
 ### What does this mean in practical terms? 
 
 {numref}`masterymodel2` shows a handy table to help guide you and organize your learning in this course: 
@@ -33,3 +34,4 @@ name: masterymodel2
 ---
 This table describes how I think each course activity should be classified between knowledge transfer and sense-making.
 ```
+-->

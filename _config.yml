@@ -60,13 +60,13 @@ sphinx:
 
     myst_substitutions:
       # Instructor information
-      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him) and Ian"
+      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
       PRONOUNCE: "Fur-az Moose-vee"
       OFFICE: "ICCS 253"
       PHONE: "N/A"
 
       # Course Information
-      COURSE_CODE: "CPSC 455"
+      COURSE_CODE: "CPSC 30"
       SECTION: "911"
       CREDITS: "3"
       TITLE: "Computers and Society"
@@ -105,7 +105,7 @@ sphinx:
       TA1: "Maissan Bazazeh"
       TA1pronounce: ""
       TA2: "Rina Forristal"
-      TA2pronounce: "MA-NU-SHREE"
+      TA2pronounce: ""
       TA3: "Justin Rahardjo"
       TA3pronounce: ""
       TA4: "Mobina Shahbandeh"

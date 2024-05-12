@@ -6,7 +6,7 @@
 # Unsyllabus
 
 
-
+<!-- 
 ```{figure} ../images/construction.jpeg
 ---
 width: 750px
@@ -14,9 +14,8 @@ name: Under Construction.
 ---
 This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
 ```
+ -->
 
-
-<!-- 
 
 ```{include} unsyllabus_bits/main_nav.md
 ```
@@ -87,11 +86,13 @@ All course content, references, and resources provided in this course are free a
 ```{include} unsyllabus_bits/changes.md
 ```
 
+<!--
 (doing-well)=
 ## How do I do well in this course?
 
 ```{include} unsyllabus_bits/doing_well_physics.md
 ```
+-->
 
 (missed-things)=
 ## Missed things
@@ -162,7 +163,6 @@ In this course, we will be using the following required learning technologies (p
 ```{include} unsyllabus_bits/acknowledgements.md
 ```
 
--->
 
 (unsyllabus_land-acknowledgement)=
 ## Land Acknowledgement

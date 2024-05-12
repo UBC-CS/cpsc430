@@ -10,6 +10,9 @@ Perusall helps you learn faster by discussing the course content and communicati
 
 If you have a question or information to share about a passage in the readings, highlight the text and type in a comment as an comment. You can also respond to a classmate's comment in threads (Facebook style) in real time or upvote questions you find helpful. Good comments contribute to the class by stimulating discussion, explaining your thought processes, helping others, and drawing attention to good points. If a particular classmate's point is relevant, you can explicitly "mention" them and they will be immediately notified, even if not presently signed on.
 
+<img src="../images/perusall.png">
+
+
 Research shows that the following behaviors on Perusall predict higher end-of-semester grades and long term mastery of the subject. Your instructor may use some or all to determine your formal score.
 
 - Contributing thoughtful questions and comments to the class discussion, spread throughout the entire reading ([see some examples](https://support.perusall.com/hc/en-us/sections/16176743952919))
@@ -21,5 +24,21 @@ Research shows that the following behaviors on Perusall predict higher end-of-se
 - Upvoting thoughtful questions and helpful answers
 
 ```{note}
-Students can enrol into Perusall [using this enrol link]({{ PERUSALL_ENROL }}).
+Students can enrol into Perusall using this enrol link: {{ PERUSALL_ENROL }}.
 ```
+
+#### Purchase Textbook on Perusall
+
+You can purchase the course textbook - {{ TEXTBOOK }} - on Perusall directly.
+Please note that if you intend to use Perusall, you **must** purchase the textbook through the Perusall platform, other eBooks are not compatible.
+
+<img src="../images/perusall_buy1.png">
+
+<img src="../images/perusall_buy2.png">
+
+<img src="../images/perusall_buy3.png">
+
+#### Opting out of Perusall
+
+Students may opt-out of using Perusall and purchase a textbook (digital or physical) elsewhere.
+To obtain credit for Perusall-related assignments, an alternative assessment will be made available to students.

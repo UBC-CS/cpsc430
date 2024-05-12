@@ -5,7 +5,7 @@
 var script = document.createElement("script");
 script.defer = true;
 script.src = "https://plausible.io/js/script.js";
-script.dataset.domain = "cpsc455";
+script.dataset.domain = "cpsc430";
 
 // optional if using proxy
 // script.dataset.api = 'https://yourproxy.com/api/event';

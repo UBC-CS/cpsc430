@@ -6,7 +6,7 @@ According to the scientific literature, the most common reasons students cheat a
 
 - Fear of failure and life consequences
 - Peer pressure, including an inability to say no to help others cheat
-- Perceived societal acceptance of cheating (Lance Armstrong, Barry Bonds, Enron, Wall Street & the The Big Short)
+- Perceived societal acceptance of cheating (Lance Armstrong, Barry Bonds, Enron, Wall Street & The Big Short)
 - Desire for success without the time/desire to put in the work needed
 - Strict deadlines and due-dates
 - Requirement from instructors to memorize facts, figures, equations, etc...
@@ -20,9 +20,9 @@ I have tried extremely hard to make this course focused on learning rather than 
 In particular, I hope (and expect) that the following features of the course should eliminate your temptation to cheat or plagiarize:
 
 - {{ GRACE_PERIOD }} grace-period on all due dates.
-- Long testing window so you can start the tests whenever you're comfortable.
-- Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)).
-<!-- - Each test has a "bonus test" available one week later; for each test, we will take the better score of the pair. -->
+- Testing window so you can start the tests whenever you're comfortable.
+<!-- - Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)). -->
+- Each Essay Quiz has a resubmission opportunity available so you can reflect on the feedback you received and improve your score.
 - No high-stakes exams (the single largest assessment item is the final exam).
 <!-- - All course assessments are completely open book, open notes, and open web (except for cheating websites like Chegg, CourseHero, Slader, Bartleby, etc...) -->
 - Plenty of TA and instructor student hours and several outside of normal business hours.

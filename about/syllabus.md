@@ -55,8 +55,15 @@ For information on this, see the {{ '[course website]({link})'.format(link=COURS
 
 ## Learning Materials
 
-There is no requirement to purchase textbooks or any other materials for this course.
-Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+```{tip}
+There is a required textbook for this course: {{ TEXTBOOOK }}.
+
+The book's rental cost for 181 days is $54.99 + tax.
+
+It may also be available for cheaper used elsewhere.
+```
+
+Additional resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
 ## Assessments of Learning
 

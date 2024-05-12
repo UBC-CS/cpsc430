@@ -5,7 +5,10 @@ parts:
   chapters:
   # - file: about/syllabus
   - file: about/course_schedule
-  # - file: about/accommodations
+  - file: about/waistlist
+  - file: about/accommodations
+  - file: about/participation
+
   # - file: about/doing_well
   # - file: about/faq
 

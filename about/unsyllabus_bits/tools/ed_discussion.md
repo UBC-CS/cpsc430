@@ -13,5 +13,5 @@ Data on Ed Discussion is stored on servers outside Canada. When you access this 
 ```
 
 ```{note}
-Students can enrol here {{ FORUM_LINK }}.
+Students can enrol into {{ FORUM_LINK }} here.
 ```
