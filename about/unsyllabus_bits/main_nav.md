@@ -26,14 +26,14 @@ A table of course topics and a week-by-week plan of what we intend to cover.
 :::
 
 :::{grid-item-card}
-:link: doing-well
+:link: tools
 :link-type: ref
 :class-header: sd-bg-success sd-text-white
 
-Doing Well 😊
+Course Tools 🛠️
 ^^^
 
-Strategies and tips on how to do well in this course.
+A description of all the tools you'll need for this course.
 
 :::
 

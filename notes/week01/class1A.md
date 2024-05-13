@@ -19,4 +19,4 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Acknowledgements
 
-Slides for {{ COURSE_CODE }} were developed and created by [Dr. Cinda Heeren](https://www.cs.ubc.ca/people/cinda-heeren). The current iteration of the course resulted in minor adaptations and updates, but by in large, full credit of these slides belongs to Dr. Cinda Heeren.
+Slides for {{ COURSE_CODE }} were developed and created by [Dr. Kevin Leyton-Brown](https://www.cs.ubc.ca/~kevinlb/). The current iteration of the course resulted in minor adaptations and updates, but by in large, all credit of these slides belongs to Dr. Kevin Leyton-Brown and Hedayat Zarkoob.
