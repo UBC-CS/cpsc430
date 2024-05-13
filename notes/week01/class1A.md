@@ -6,16 +6,14 @@ We will leave the website open even after the course is over for a reasonable nu
 
 
 <div>
-<iframe src="../../Lec01Intro.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../2024_S1_Class1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](https://github.com/ubc-cs/cpsc203/raw/main/files/Lec01Intro.pdf)
+[Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S1_Class1.pdf)
 
 ## Important links for today:
 
-- [Canvas](https://canvas.ubc.ca/courses/130127)
-- [PrairieLearn](https://canvas.ubc.ca/courses/130127/external_tools/48751)
-- [Markdown Tutorial](https://commonmark.org/help/tutorial/)
+TBD
 
 ## Acknowledgements
 

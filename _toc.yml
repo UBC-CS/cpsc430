@@ -9,6 +9,12 @@ parts:
   - file: about/accommodations
   - file: about/participation
 
+- caption: Part 1
+  maxdepth: 1
+  chapters:
+    - file: notes/week01/class1A
+      title: Class 1
+
   # - file: about/doing_well
   # - file: about/faq
 
