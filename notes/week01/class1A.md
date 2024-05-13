@@ -1,9 +1,14 @@
 # Class Meeting 1A
 
+## Pre-readings
+
+None
+
+## Class slides
+
 Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
-
 
 <div>
 <iframe src="../../2024_S1_Class1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>

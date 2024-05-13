@@ -14,6 +14,8 @@ parts:
   chapters:
     - file: notes/week01/class1A
       title: Class 1
+    - file: notes/week01/class1B
+      title: Class 2
 
   # - file: about/doing_well
   # - file: about/faq
