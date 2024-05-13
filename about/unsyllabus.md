@@ -29,8 +29,8 @@ This course website is currently under construction. It will continue to be upda
 
 ### What do I need to purchase for this course?
 
-Being very conscious of the high tuition and technology costs, we have made efforts to remove the additional cost of taking this course.
-All course content, references, and resources provided in this course are free and open source, and can be considered open educational resources (OER).
+```{include} syllabus_bits/textbook.md
+```
 
 <div class="page_break"> </div>
 
