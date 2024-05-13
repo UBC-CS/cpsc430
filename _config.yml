@@ -66,7 +66,7 @@ sphinx:
       PHONE: "N/A"
 
       # Course Information
-      COURSE_CODE: "CPSC 30"
+      COURSE_CODE: "CPSC 430"
       SECTION: "911"
       CREDITS: "3"
       TITLE: "Computers and Society"
