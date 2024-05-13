@@ -3,9 +3,9 @@ Things may change depending on many factors so this is subject to change.
 
 | Class | Date    | Topic                                    | Essay Due | Peer Review Due | Reading due |
 |-------|---------|------------------------------------------|-----------|-----------------|-------------|
-| 1     | May 13  | Introduction and Course Overview         | -         | -               |             |
-| 2     | May 15  | Writing, argumentation, ethical theories | 0         | -               |             |
-| 3     | May 17  | Introduction to Ethics                   | 1         | 0               |             |
+| 1     | May 13  | Introduction and Course Overview         | 0         | -               |             |
+| 2     | May 15  | Writing, argumentation, ethical theories | -         | 0               |             |
+| 3     | May 17  | Introduction to Ethics                   | 1         | -               |             |
 |       |         | *End of Week 1*                          |           |                 |             |
 | 4     | May 20  | **Stat Holiday - No Class**              | 2         | 1               |             |
 | 5     | May 22  | Networked Communications (NC)            | -         | 2               |             |
