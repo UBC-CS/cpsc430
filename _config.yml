@@ -89,7 +89,7 @@ sphinx:
       ASSOCIATE_HEAD: "Associate Head [associate.head@fakeemail.ca](mailto:associate.head@fakeemail.ca)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410/?course=cpsc430&term=2024_S1)"
       PERUSALL_ENROL: "https://app.perusall.com/join/moosvi-n8x4l"
-      MTA_ENROL: "aurora100"
+      MTA_ENROL: "`aurora100`"
 
       # Withdrawal Dates and Exam Period
       # https://vancouver.calendar.ubc.ca/dates-and-deadlines
@@ -109,4 +109,4 @@ sphinx:
       TA3: "Justin Rahardjo"
       TA3pronounce: ""
       TA4: "Mobina Shahbandeh"
-      TA3pronounce: ""
+      TA4pronounce: ""

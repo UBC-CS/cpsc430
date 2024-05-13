@@ -1,4 +1,4 @@
-## In-Class Attendance and Participation
+# In-Class Attendance and Participation
 
 Active participation in the class is a key element of this course. The class is designed according to a "flipped classroom" model, meaning that lectures aren't used to repeat facts that you can learn from the textbook. Instead, everyone comes to class already exposed to the material, and we use the time interactively, focusing on discussion and critical analysis. In-person interaction has two key components: exposure to arguments by your peers, and making such arguments yourself.
 
