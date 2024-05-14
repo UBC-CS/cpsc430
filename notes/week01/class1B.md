@@ -5,12 +5,11 @@
 Additional Resources  Your second week of readings, on essay writing, will not come from the textbook. Instead, you'll read the following set of publicly available resources. For your convenience, they're also gathered together into one PDF in MTA.
 
 1. [Purdue Online Writing Lab: Developing Strong Thesis Statements](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html)
-2. [Douglas College writing: The essay](https://guides.douglascollege.ca/writingassignments/essay)
-3. [Douglas College writing: Creating an Outline](https://guides.douglascollege.ca/writingprocess/creatinganoutline)
+2. [Douglas College writing: The essay](https://library.douglascollege.ca/learningcentre/writing-assignments)
+3. [Douglas College writing: Creating an Outline](https://library.douglascollege.ca/learningcentre/writing-process#64)
 4. [University of Chicago Writing Program: Argument: A key feature of college writing](https://uas.alaska.edu/academic_advising/docs/wic1.pdf)
 5. [Harvard Writing Center: A Brief Guide to Writing the Philosophy Paper](https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf)
 6. [Purdue Online Writing Lab: Logic in Argumentative Writing (parts a, b, c, d, e, f)](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html)
-7. [UCLA graduate writing center: The writing process](https://www.scribd.com/document/366129743/writing-process)
 
 ## Class slides
 
