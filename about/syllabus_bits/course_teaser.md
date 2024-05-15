@@ -1,6 +1,7 @@
-This course will be a LOT of fun, you'll get lots of practice doing a lot of Python, and you'll learn some cool things.
+This course will be a LOT of fun, you'll get lots of practice making arguments for all sorts of ethical topics.
+You'll learn some cool things, and you'll hone your writing skills.
 
-By the end of the course, you'll (hopefully) feel super comfortable with algorithms and programming.
+By the end of the course, you'll (hopefully) feel super comfortable with many of the topics in our course and be able to make sound arguments on all of them.
 Strap in, it will be a wild ride!!
 
 <!-- 
