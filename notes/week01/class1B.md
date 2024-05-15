@@ -2,7 +2,8 @@
 
 ## Pre-readings
 
-Additional Resources  Your second week of readings, on essay writing, will not come from the textbook. Instead, you'll read the following set of publicly available resources. For your convenience, they're also gathered together into one PDF in MTA.
+Your next set of readings, on essay writing, will not come from the textbook. 
+Instead, you'll read the following set of publicly available resources.
 
 1. [Purdue Online Writing Lab: Developing Strong Thesis Statements](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html)
 2. [Douglas College writing: The essay](https://library.douglascollege.ca/learningcentre/writing-assignments)
