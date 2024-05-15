@@ -26,7 +26,8 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Important links for today:
 
-TBD
+- [ChatGPT 4o](https://openai.com/index/hello-gpt-4o/)
+- [Slaughterbots video](https://www.youtube.com/watch?v=9rDo1QxI260)
 
 ## Acknowledgements
 
