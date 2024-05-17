@@ -5,4 +5,4 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 
 | Change Date | Summary | Rationale |
 |-------------|---------|-----------|
-|             |         |           |
+| May 17, 2024 | Updated schedule to revise coverage of topics   | We needed one additional lecture on Ethical Theories! |
