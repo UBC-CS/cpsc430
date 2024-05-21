@@ -8,6 +8,8 @@ parts:
   - file: about/waitlist
   - file: about/accommodations
   - file: about/participation
+  - file: about/peer_review
+  - file: about/resubmissions
 
 - caption: Part 1
   maxdepth: 1
