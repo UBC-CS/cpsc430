@@ -47,7 +47,5 @@ Q: What happens if my Peer Reviews are not helpful/useful - should I still resub
 > 
 > When you request an appeal and a TA grades your essay, they will also look at your peer reviews and evaluate those. Students who submit problematic peer reviews will have their dependability scores reduced.
 
-
-
-
-And yes, that means there is a 2500 char limit on your resubmission reflection.
+Q: Will students be able to refer back to the peer review feedback and the original of the essay in the CBTF ? 
+> Yes, you will be able to see all feedback, as well as your original submission.
