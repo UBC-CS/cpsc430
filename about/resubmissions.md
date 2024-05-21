@@ -35,6 +35,9 @@ In few sentences, summarize what you have learned as a result of resubmitting yo
 
 ## Frequently Asked Questions (about Resubmissions)
 
+Q: Where do I do my resubmissions?
+> A: Just like essays, resubmissions are also done in the CBTF.
+
 Q: What is the character limit for the resubmission reflection?
 > A: The limit for the whole of the resubmission reflection is 2500 characters.
 
