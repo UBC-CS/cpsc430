@@ -15,16 +15,16 @@ parts:
   maxdepth: 1
   chapters:
     - file: notes/week01/class1A
-      title: Class 1
+      title: Class 1A
     - file: notes/week01/class1B
-      title: Class 2
+      title: Class 1B
     - file: notes/week01/class1C
-      title: Class 3
+      title: Class 1C
 - caption: Week 2
   maxdepth: 1
   chapters:
     - file: notes/week02/class2A
-      title: Class 4
+      title: Class 2A
 
 
   # - file: about/doing_well
