@@ -1,23 +1,27 @@
-# Class Meeting 3B
+# Class Meeting 3A
+
+## Debate
+
+This class we will have a formal debate with prepared statements. 
+I will work on the logistics of this soon and release the details soon!
+
+<!-- 
+## Class slides
 
 Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
 
 <div>
-<iframe src="../../Lec06knitting1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../2024_S1_Class3B.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](https://github.com/ubc-cs/cpsc203/raw/main/files/Lec06knitting1.pdf)
+[Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S1_Class3B.pdf)
 
-<!--
 ## Important links for today:
+ -->
 
-- [Canvas](https://canvas.ubc.ca/courses/130127)
-- [PrairieLearn](https://canvas.ubc.ca/courses/130127/external_tools/48751)
-- [Markdown Tutorial](https://commonmark.org/help/tutorial/)
--->
 
 ## Acknowledgements
 
-Slides for {{ COURSE_CODE }} were developed and created by [Dr. Cinda Heeren](https://www.cs.ubc.ca/people/cinda-heeren). The current iteration of the course resulted in minor adaptations and updates, but by in large, full credit of these slides belongs to Dr. Cinda Heeren.
+Slides for {{ COURSE_CODE }} were developed and created by [Dr. Kevin Leyton-Brown](https://www.cs.ubc.ca/~kevinlb/). The current iteration of the course resulted in minor adaptations and updates, but by in large, all credit of these slides belongs to Dr. Kevin Leyton-Brown and Hedayat Zarkoob.

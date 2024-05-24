@@ -27,7 +27,13 @@ parts:
       title: Class 2A
     - file: notes/week02/class2B
       title: Class 2B
-
+- caption: Week 3
+  maxdepth: 1
+  chapters:
+    - file: notes/week03/class3A
+      title: Class 3A
+    - file: notes/week03/class3B
+      title: Class 3B
 
   # - file: about/doing_well
   # - file: about/faq
