@@ -17,6 +17,7 @@ We will leave the website open even after the course is over for a reasonable nu
 - [British Gov't Facial Recognition Cameras](https://www.theguardian.com/uk-news/2017/mar/14/public-faces-mass-invasion-of-privacy-as-big-data-and-surveillance-merge)
 - [Content that keeps users on the website](https://www.npr.org/sections/thetwo-way/2017/11/27/566769570/youtube-faces-increased-criticism-that-its-unsafe-for-kids)
 - [Retweets as dopamine hits](https://hai.stanford.edu/news/psychiatrists-perspective-social-media-algorithms-and-mental-health)
+- [CSAM controversy](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 
 ## Acknowledgements
 
