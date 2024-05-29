@@ -2,8 +2,37 @@
 
 ## Debate
 
-This class we will have a formal debate with prepared statements. 
-I will work on the logistics of this soon and release the details soon!
+This class we will have a formal debate with prepared statements.
+
+The two topics that we will debate on tomorrow will be:
+
+Be it resolved that (BIRT):
+
+1. Medical patents should be honoured even if they are costing human life.
+
+2. Companies that build AI models should be exempt from infringing IP rights
+
+Tomorrow half of you will get to debate topic 1 (while the other half watches), and the other half will get to debate topic 2. 
+
+You will be assigned a "role" to play (e.g., Patent Lawyer, CEO of a tech company, Average Citizen, etc...) but you will have some flexibility on whether you debate for or against the position. Your position may change over the course of the debate (it's up to you) but before and after the debate, we will have a class vote to see where we stand on the issue.
+
+Here's a nice short video on the importance of debate that you are encouraged to watch!
+
+```{dropdown} 1. Knitting Functions
+    :class-container: sd-shadow-lg
+    :color: primary
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/2pVdSEp-tT8?si=X_FBybmotIgA1B0B" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+</div>
+```
+
+To prepare, you should spend some time thinking about and/or reading up about these two topics. You will get a little bit of time to prepare tomorrow but the more prepared you are, the more fruitful I expect the debate to be so be sure to look up facts, precedents, policies, and add them in as a comment below if you want to collect them all in one place for easy access.
+
+Thanks, looking forward to this!
+
+
 
 <!-- 
 ## Class slides
