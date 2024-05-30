@@ -4,7 +4,7 @@
 
 This class we will have a formal debate with prepared statements.
 
-The two topics that we will debate on tomorrow will be:
+The two topics that we will debate on next class will be:
 
 Be it resolved that (BIRT):
 
@@ -18,7 +18,7 @@ You will be assigned a "role" to play (e.g., Patent Lawyer, CEO of a tech compan
 
 Here's a nice short video on the importance of debate that you are encouraged to watch!
 
-```{dropdown} 1. Knitting Functions
+```{dropdown} 1. Importance of Debate in Society
     :class-container: sd-shadow-lg
     :color: primary
     :open:

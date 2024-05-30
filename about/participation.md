@@ -12,7 +12,13 @@ Active participation in the class is a key element of this course. The class is 
 *   If you have nothing to say, and clearly just raised your hand for points rather than to contribute to the discussion, you'll get zero points for the entire day, regardless of how many other points you might have been awarded earlier that day.
 *   If you use MTA to raise your hand while not physically present in the class, this will be treated as a case of academic misconduct and serious penalties will apply. TAs will be able to see a real-time list of which students have put their hands up along with their UBC Card photos, and may verify physical attendance even for students who are not called upon.
 
-**How Participation Affects Your Peer Grading Quota**   You will start out with a weekly peer grading quota of 7 essays. Every class you raise your hand at least once will yield you a 2-essay reduction in your quota, recognizing that both class attendance and peer grading give you exposure to peer arguments. In other words, if you attend every class and raise your hand exactly once per class, you'll have to peer grade 3 essays per week instead of 7.
+**How Participation Affects Your Peer Grading Quota**
+
+```{note}
+This policy (to reduce peer grading quota) has been temporarily suspended. See [Post #99](https://edstem.org/us/courses/58493/discussion/5002771) for more details and the rationale. Students will typically be assigned 4 peer reviews each week.
+```
+
+<s>You will start out with a weekly peer grading quota of 7 essays. Every class you raise your hand at least once will yield you a 2-essay reduction in your quota, recognizing that both class attendance and peer grading give you exposure to peer arguments. In other words, if you attend every class and raise your hand exactly once per class, you'll have to peer grade 3 essays per week instead of 7.</s>
 
 **How Participation Affects Your Grade**  Participation is worth a portion of your final grade given in the [overall breakdown above](https://www.students.cs.ubc.ca/~cs-430/#Grades). We'll calculate your participation grade on a per-class basis and then average these grades across the whole term to obtain your final grade. Before averaging, we'll drop the 4 classes in which you have the lowest grades. This means that you can miss 4 classes without any grade penalty. Please use this flexibility to avoid coming to class if you feel sick! You can also use it to manage other constraints that may arise in your personal life, deadlines from other courses, etc.
 
