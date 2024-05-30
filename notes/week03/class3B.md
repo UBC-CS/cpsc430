@@ -4,7 +4,7 @@
 
 This class we will have a formal debate with prepared statements.
 
-The two topics that we will debate on next class will be:
+The two topics that we will debate on this class will be:
 
 Be it resolved that (BIRT):
 
