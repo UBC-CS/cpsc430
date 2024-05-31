@@ -1,4 +1,4 @@
-# Class Meeting 4A
+# Class Meeting 3C
 
 ## Class slides
 
@@ -10,13 +10,16 @@ We will leave the website open even after the course is over for a reasonable nu
 <iframe src="../../2024_S1_Class3C.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S1_Class4A.pdf)
+[Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S1_Class3C.pdf)
 
-<!-- 
+## How much is your data worth (to you)?
+
+<a href="https://www.totallymoney.com/personal-data/" target="_blank"><iframe frameBorder="0" src="https://www.totallymoney.com/personal-data/" width="500" height="800"/></iframe> </a><br /><span style="font-size: 12px;"><a href="https://www.totallymoney.com/personal-data/">View Interactive Version</a> (via <a href="https://www.totallymoney.com/">Totallymoney.com</a>).</span>
+
 ## Important links for today:
 
-- 
- -->
+- [Value of your data](https://www.totallymoney.com/personal-data/)
+
 
 ## Acknowledgements
 

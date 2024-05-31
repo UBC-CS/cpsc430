@@ -34,6 +34,17 @@ parts:
       title: Class 3A
     - file: notes/week03/class3B
       title: Class 3B
+    - file: notes/week03/class3C
+      title: Class 3C
+- caption: Week 4
+  maxdepth: 1
+  chapters:
+    - file: notes/week04/class4A
+      title: Class 4A
+    # - file: notes/week04/class4B
+    #   title: Class 4B
+    # - file: notes/week04/class4C
+    #   title: Class 4C
 
   # - file: about/doing_well
   # - file: about/faq
