@@ -41,6 +41,8 @@ parts:
   chapters:
     - file: notes/week04/class4A
       title: Class 4A
+    - file: notes/week04/class4B
+      title: Class 4B
     # - file: notes/week04/class4B
     #   title: Class 4B
     # - file: notes/week04/class4C
