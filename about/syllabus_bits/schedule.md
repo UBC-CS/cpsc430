@@ -19,7 +19,7 @@ Things may change depending on many factors so this is subject to change.
 | 11    | June 5  | Privacy and the Government                 | -                     | 6               |
 | 12    | June 7  | Computer and Network Security              | 7                     | -               |
 |       |         | *End of Week 4*                            |                       |                 |
-| 13    | June 10 | Work and Wealth                            | 8                     | 7               |
+| 13    | June 10 | Computer and Network Security              | 8                     | 7               |
 | 14    | June 12 | Work and Wealth                            | -                     | 8               |
 | 15    | June 14 | Professional Ethics, Reliability (On Zoom) | 9                     | -               |
 |       |         | *End of Week 5*                            |                       |                 |
