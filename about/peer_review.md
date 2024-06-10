@@ -11,7 +11,7 @@ Every time a TA grades an assignment that you also graded, they'll make a binary
 We'll use these assessments to update your _effort_ probability and hence your dependability score.
 
 For each student we will maintain both a "realistic" estimate of dependability and a "pessimistic" (lower confidence bound) estimate.
-Each week, we'll identify those students with pessimistic dependability estimates below a certain threshold and assign them to grade each other; we'll also have a TA grade each such assignment.
+Each essay, we'll identify those students with pessimistic dependability estimates below a certain threshold and assign them to grade each other; we'll also have a TA grade each such assignment.
 (Note that this means that if you have a low pessimistic dependability estimate, you'll likely get noisier peer grades, but this won't matter because your grade will be entirely determined by a TA.)
 The remainder of students (those for whom even our pessimistic dependability estimates exceed a threshold) will perform independent peer review grading as discussed above.
 This system ensures that your assignment will either be graded by a TA or will be graded entirely by peers that the system confidently predicts will grade reliably.
@@ -20,7 +20,7 @@ If your pessimistic dependability estimate falls below our threshold, you will a
 These calibration reviews are a designed to help you learn how to grade well and also how to write good essays.
 You're also allowed to do extra calibrations (whether your weekly assignment was 3 or 0); this is a particularly good idea when your dependability estimate is low, because doing extra calibrations will teach you to grade better and can also improve your peer review grading scores.
 
-Each week, we'll assign you a peer review grading score; overall, these scores will make up the peer review grading portion of your final grade.
+Each essay, we'll assign you a peer review grading score; overall, these scores will make up the peer review grading portion of your final grade.
 These grades will be derived from our "realistic" estimates of your dependability score.
 The exact formula is complex and subject to change, but a student with a dependability score exactly equal to our calibration threshold will receive a grade of 80%.
 Beyond this, the formula is strictly monotone in dependability; you can see your current standing in MTA.

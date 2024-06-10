@@ -15,7 +15,7 @@ Active participation in the class is a key element of this course. The class is 
 **How Participation Affects Your Peer Grading Quota**
 
 ```{note}
-This policy (to reduce peer grading quota) has been temporarily suspended. See [Post #99](https://edstem.org/us/courses/58493/discussion/5002771) for more details and the rationale. Students will typically be assigned 4 peer reviews each week.
+This policy (to reduce peer grading quota) has been temporarily suspended. See [Post #99](https://edstem.org/us/courses/58493/discussion/5002771) for more details and the rationale. Students will typically be assigned 4 peer reviews each essay.
 ```
 
 <s>You will start out with a weekly peer grading quota of 7 essays. Every class you raise your hand at least once will yield you a 2-essay reduction in your quota, recognizing that both class attendance and peer grading give you exposure to peer arguments. In other words, if you attend every class and raise your hand exactly once per class, you'll have to peer grade 3 essays per week instead of 7.</s>

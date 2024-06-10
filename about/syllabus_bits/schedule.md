@@ -24,7 +24,7 @@ Things may change depending on many factors so this is subject to change.
 | 15    | June 14 | Reliability, Professional Ethics (8,9) (On Zoom) | 9                     | -               |
 |       |         | *End of Week 5*                                  |                       |                 |
 | 16    | June 17 | Artificial Intelligence (On Zoom)                | 10                    | 9               |
-| 17    | June 19 | Artificial Intelligence (On Zoom)               | -                     | 10              |
+| 17    | June 19 | Artificial Intelligence (On Zoom)                | -                     | 10              |
 |       |         | *End of Course!*                                 |                       |                 |
 
 ## Calendar of Dates and Windows
