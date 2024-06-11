@@ -20,7 +20,7 @@ Things may change depending on many factors so this is subject to change.
 | 12    | June 7  | Computer and Network Security (7)                      | 7                     | -               |
 |       |         | *End of Week 4*                                        |                       |                 |
 | 13    | June 10 | Computer and Network Security (7)                      | 8                     | 7               |
-| 14    | ~~June 12~~ | ~~Work and Wealth (10)~~ **CLASS CANCELLED**           | -                     | 8               |
+| 14    | <s>June 12</s> | <s>Work and Wealth (10)</s> **CLASS CANCELLED**           | -                     | 8               |
 | 15    | June 14 | Work & Wealth (10), Computer Reliability (8) (On Zoom) | 9                     | -               |
 |       |         | *End of Week 5*                                        |                       |                 |
 | 16    | June 17 | Professional Ethics and AI (On Zoom)                   | 10                    | 9               |
