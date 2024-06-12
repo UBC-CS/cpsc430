@@ -1,13 +1,13 @@
 The grading scheme for this course is:
 
-| Item                      | Weight        | Due date(s)       |
-|---------------------------|---------------|-------------------|
-| Essay Quizzes             | 40% (10 x 4%) | Saturdays at 6 PM |
-| Peer Reviews              | 20% (10 x 2%) | Fridays at 6 PM   |
-| Class Discussions         | 15%           | Every Class       |
-| Final Exam                | 25%           | TBD               |
-| -----------------         | ------        | -----------       |
-| Perusall OR Reading Notes | +2% Bonus     | Weekly            |
+| Item                      | Weight        | Due date(s)                  |
+|---------------------------|---------------|------------------------------|
+| Essay Quizzes             | 40% (10 x 4%) | Mondays & Fridays at 6 PM    |
+| Peer Reviews              | 20% (10 x 2%) | Mondays & Wednesdays at 6 PM |
+| Class Discussions         | 15%           | Every Class                  |
+| Final Exam                | 25%           | TBD                          |
+| -----------------         | ------        | -----------                  |
+| Perusall OR Reading Notes | +2% Bonus     | Twice Weekly                 |
 
 There will be 10 essay quizzes in this course happening approximately twice a week.
 For each of the essay quizzes, there will be a resubmission opportunity to apply feedback you received, we expect your score to only improve after the resubmission, so the resubmission score will be used as your final score.
