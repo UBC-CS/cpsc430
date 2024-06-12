@@ -12,6 +12,10 @@ The grading scheme for this course is:
 There will be 10 essay quizzes in this course happening approximately twice a week.
 For each of the essay quizzes, there will be a resubmission opportunity to apply feedback you received, we expect your score to only improve after the resubmission, so the resubmission score will be used as your final score.
 
+```{warning}
+Students will need to complete their essays in the [CBTF](https://cbtf.ubc.ca) creating in-person 50-minute bookings over a multi-day window.
+```
+
 ```{attention}
 There are ten chapters in our textbook this term and each chapter has a reading annotation assignment on Perusall. This is optional and successful completion of these assignments will grant you a 2% bonus on the course.
 
