@@ -50,8 +50,10 @@ parts:
   chapters:
     - file: notes/week05/class5A
       title: Class 5A
-    - file: notes/week04/class5B
+    - file: notes/week05/class5B
       title: Class 5B (Cancelled)
+    - file: notes/week05/class5C
+      title: Class 5C
   # - file: about/doing_well
   # - file: about/faq
 
