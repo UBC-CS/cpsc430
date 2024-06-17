@@ -39,20 +39,27 @@ I'll provide some more details on each of the three parts.
 
 ### Part 2 (Short Answer Questions - 25%)
 
-- On MTA we will (soon) release a list of over 80 possible short answer questions and all questions for Part 2 of the exam are guaranteed to come from this list
+- On MTA we have released a list of over 80 possible short answer questions and all questions for Part 2 of the exam are guaranteed to come from this list
 - You will NOT have any choice in which Part 2 questions you have to answer
 - Each student will get a different set of questions, and they must answer all of the ones they were assigned
+- Each short-answer question should be answerable in 1-3 sentences
 - You should prepare by being able to answer all of the questions from the list (if you have been keeping up with the course content, you should be able to answer most of these already without studying, though I still suggest going through them in some random order to make sure your answers are refined)
 
 ### Part 3 (Essays - 50%)
 
-```{warning}
-I'm still working on a plan for Part 3 of the Final Exam. The ideas below are **tentative**.
-Once they are finalized, I will remove this note.
-```
+- On MTA we have released 4 potential prompts and on the final exam, **you will choose 2** of these prompts to write an outline and an essay.
+- Your essays need to be a **minimum** of 2000 characters, but there is no maximum.
+    - Yes, you read that right, there is no maximum length, but this does not mean you should write as much as you can - sometimes less is more!
+- The outline will be graded, should be in point-form, and also has no word or character limit. Here is the rubric for the outline:
+    - 0%: No outline provided, or what was provided wasn't recognizable as an outline.
+    - 33% % : Weak outline: Possible key flaws: thesis is not clear; not hierarchically organized; more like sentences than point form; doesn't correspond closely to the essay; key ideas from the essay do not appear in the outline or vice versa.
+    - 67% % : Good outline: Some flaws, but they were not serious. Corresponds to the essay reasonably closely; captures the essay's thesis and key ideas; roughly appropriate length; hierarchically organized.
+    - 100 % : Excellent outline: Very closely corresponds to the essay; precisely describes the essay's thesis and key ideas; written in point form with no extraneous verbiage (anything shorter would lose important information); hierarchical organized.
+- The essay will be graded (same rubric that you're used to) and must resemble your outline.
 
-In past instances of CPSC 430, students were expected to write two essays and outlines on paper with no choice in prompts.
-That is our starting point and the default, but I am trying to find a way to give you some advance information about the essay prompts and/or give you the option to choose M of N prompts in a fair and equitable way.
+```{warning}
+You must clearly indicate which two prompts you are choosing (by leaving the prompts you are not choosing blank and unanswered). If the teaching team is unclear on which prompts you've chosen, we will simply pick the first two.
+```
 
 ## PrairieLearn
 
