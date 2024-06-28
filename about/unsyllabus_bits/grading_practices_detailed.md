@@ -9,7 +9,7 @@ The grading scheme for this course is:
 | Perusall OR Reading Notes | +2% Bonus     | Twice Weekly                 |
 
 There will be 10 essays in this course happening approximately twice a week.
-For each of the essays, there will be a resubmission opportunity to apply feedback you received, we expect your score to improve after the resubmission, so the resubmission score will be used as your final score.
+For each of the essays, there will be a resubmission opportunity to apply feedback you received,and the resubmission score will be used as your final score.
 
 ```{warning}
 Students will need to complete their essays in the [CBTF](https://cbtf.ubc.ca) creating in-person 50-minute bookings over a multi-day window.

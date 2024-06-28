@@ -10,6 +10,4 @@ Please direct any questions you may have to the [CS Department Academic Advisors
 
 ```{tip}
 If you are on the waitlist and want to take the course, to maximize your chances of being successful you should fully participate in the course from the very beginning.
-
-**We anticipate submitting student participation and attendance with the department by 6 PM on May 15th, so decisions can be made by the Add/Drop deadline.**
 ```
