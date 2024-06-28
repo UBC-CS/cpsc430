@@ -1,7 +1,7 @@
 ```{tip}
 There is a required textbook for this course: {{ TEXTBOOOK }}.
 
-The book's rental cost for 181 days is $54.99 + tax.
+The book's rental cost for 181 days is $57.99 + tax.
 
 It may also be available for cheaper used elsewhere.
 ```
