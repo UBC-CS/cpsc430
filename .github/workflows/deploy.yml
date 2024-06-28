@@ -63,7 +63,7 @@ jobs:
         CS_TUNNEL: remote.cs.ubc.ca
         REMOTE_KEY: ${{ secrets.FIRAS_SERVER_SSH_KEY }}
         FIRAS_KEYBOARDMBP: ${{ secrets.FIRAS_KEYBOARDMBP }}
-        TERM: 2024_S1
+        TERM: 2024_S2
         LOCAL_DIR: _build/html/
       run: |
         mkdir -p ~/.ssh

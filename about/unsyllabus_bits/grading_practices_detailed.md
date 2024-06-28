@@ -2,10 +2,9 @@ The grading scheme for this course is:
 
 | Item                      | Weight        | Due date(s)                  |
 |---------------------------|---------------|------------------------------|
-| Essay Quizzes             | 40% (10 x 4%) | Mondays & Fridays at 6 PM    |
-| Peer Reviews              | 20% (10 x 2%) | Mondays & Wednesdays at 6 PM |
-| Class Discussions         | 15%           | Every Class                  |
-| Final Exam                | 25%           | TBD                          |
+| Essay Quizzes             | 50% (10 x 5%) | Mondays & Fridays at 6 PM    |
+| Peer Reviews              | 30% (10 x 3%) | Mondays & Wednesdays at 6 PM |
+| Class Discussions         | 20%           | Every Class                  |
 | -----------------         | ------        | -----------                  |
 | Perusall OR Reading Notes | +2% Bonus     | Twice Weekly                 |
 

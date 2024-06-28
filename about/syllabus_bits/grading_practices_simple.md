@@ -1,9 +1,8 @@
 | Item                      | Weight    | Frequency   |
 |---------------------------|-----------|-------------|
-| Quizzes                   | 40%       | Weekly      |
-| Peer Reviews              | 20%       | Weekly      |
-| Class Discussions         | 15%       | Weekly      |
-| Final Exam                | 25%       | Exam Period |
+| Essays                    | 50%       | Weekly      |
+| Peer Reviews              | 30%       | Weekly      |
+| Class Discussions         | 20%       | Weekly      |
 | -----------------         | ------    | ----------- |
 | Perusall OR Reading Notes | +2% Bonus | Weekly      |
 
