@@ -22,7 +22,7 @@ In particular, I hope (and expect) that the following features of the course sho
 <!-- - {{ GRACE_PERIOD }} grace-period on all due dates. -->
 - Testing window so you can start the tests whenever you're comfortable.
 <!-- - Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)). -->
-- Each Essay Quiz has a resubmission opportunity available so you can reflect on the feedback you received and improve your score.
+- Each Essay has a resubmission opportunity available so you can reflect on the feedback you received and improve your score.
 - No high-stakes exams (the single largest assessment item is the final exam).
 <!-- - All course assessments are completely open book, open notes, and open web (except for cheating websites like Chegg, CourseHero, Slader, Bartleby, etc...) -->
 - Plenty of TA and instructor student hours and several outside of normal business hours.

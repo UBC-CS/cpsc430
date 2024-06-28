@@ -45,6 +45,17 @@ This course website is currently under construction. It will continue to be upda
 ```{include} unsyllabus_bits/grading_practices_detailed.md
 ```
 
+(cbtf)=
+## Computer-based testing facility (CBTF)
+
+All of your essays this term will be written in the [CBTF](https://cbtf.ubc.ca) by booking slots in a proctored environment on UBC-provided computers.
+Students can make reservations in the CBTF a few days in advance and can adjust their reservation times up to 30-minutes before the start of the reservation.
+Watch [this video](https://cbtf.ubc.ca/students/reservations) to see a demo of the booking process.
+Students will need to bring their Student IDs for each reservation and are not permitted any electronic devices while doing their exam.
+More information about the CBTF procedures can be found [here](https://cbtf.ubc.ca/students/procedures).
+Typically, Essays will have a 4-day window and Resubmissions will have a 2-day window.
+Time slots will be available based on proctor availability and CBTF operational needs.
+
 (passing-requirements)=
 ## Passing requirements
 

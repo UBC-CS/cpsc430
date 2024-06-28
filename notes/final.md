@@ -6,7 +6,6 @@ This page contains the definitive information on the CPSC 430 Final Exam!
 ## Exam format
 
 - The final exam will be 150 minutes long (2h30m).
-    - Note: This is a strict duration and there will be no flexibility in time like with essay quizzes!
 - Exam platform will be **PrairieLearn** (not MTA)!
 - You are now able to [reserve sessions in the CBTF](https://ca.prairietest.com) between June 24th and June 26th.
     - Sessions will generally (subject to proctor availability) be held at 9 AM, 12PM, or 3 PM.
