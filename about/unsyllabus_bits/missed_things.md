@@ -34,7 +34,7 @@ Remember, if you miss a Test for whatever reason, you can make it up the followi
 ```
  -->
 
-If you miss a deadline by more than the grace period, the general course policy is that you will not be able to get full credit for it, and in many cases, may even get a 0 for it.
+<!-- If you miss a due date, the general course policy is that you will not be able to get full credit for it, and in many cases, may even get a 0 for it. -->
 In the cases of Tests, it is not possible to get partial credit, or complete it at times other than within the scheduled windows.
 In some cases, I reserve the right to grant an extension or make alternate accommodations as needed.
 

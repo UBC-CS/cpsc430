@@ -93,10 +93,10 @@ sphinx:
 
       # Withdrawal Dates and Exam Period
       # https://vancouver.calendar.ubc.ca/dates-and-deadlines
-      W_DATE_1: "11:59 PDT on May 20, 2024"
-      W_DATE_2: "11:59 PDT on June 07, 2024"
-      W_DATE_3: "11:59 PDT on June 07, 2024"
-      EXAM_PERIOD: "Monday June 24 - Friday June 28"
+      W_DATE_1: "11:59 PDT on July 8, 2024"
+      W_DATE_2: "11:59 PDT on July 9, 2024"
+      W_DATE_3: "11:59 PDT on July 9, 2024"
+      EXAM_PERIOD: "Tuesday August 13 - Saturday August 17"
 
       # Course Policies
       GRACE_PERIOD: "6 hour"
