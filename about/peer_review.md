@@ -1,5 +1,10 @@
 # Peer Review Grading
 
+```{tip}
+In order to be assigned Peer Reviews for an essay, you **must** achieve 100% on the reading quiz for that essay to ensure that all reviewers have done a minimum amount of work to provide a high quality review.
+Reading quizzes can be done an unlimited number of times, but there's a 30-minute cooldown between each quiz attempt.
+```
+
 We use [Bayesian inference](https://arxiv.org/abs/2209.01242) to estimate each student's "dependability" as a reviewer on a weekly basis.
 The key idea is that calibrations and assignments graded by TAs give us information about which graders are more reliable; we then bootstrap this knowledge to decide how much to trust each grader on assignments that were not graded by a TA.
 Your dependability score is our estimate of _effort_ \* (1/_variance_), where _effort_ is (1 - the probability that you choose a grade close to the class average without considering the essay) and _variance_ is our estimate of your tendency to differ from the essay's true grade when you do make an effort. The system starts out with the assumption that all students have low dependability scores (specifically, low _effort_ and high _variance_).
