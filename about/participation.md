@@ -12,6 +12,7 @@ Active participation in the class is a key element of this course. The class is 
 *   If you have nothing to say, and clearly just raised your hand for points rather than to contribute to the discussion, you'll get zero points for the entire day, regardless of how many other points you might have been awarded earlier that day.
 *   If you use MTA to raise your hand while not physically present in the class, this will be treated as a case of academic misconduct and serious penalties will apply. TAs will be able to see a real-time list of which students have put their hands up along with their UBC Card photos, and may verify physical attendance even for students who are not called upon.
 
+<!-- 
 **How Participation Affects Your Peer Grading Quota**
 
 ```{note}
@@ -19,20 +20,46 @@ This policy (to reduce peer grading quota) has been temporarily suspended. See [
 ```
 
 <s>You will start out with a weekly peer grading quota of 7 essays. Every class you raise your hand at least once will yield you a 2-essay reduction in your quota, recognizing that both class attendance and peer grading give you exposure to peer arguments. In other words, if you attend every class and raise your hand exactly once per class, you'll have to peer grade 3 essays per week instead of 7.</s>
+ -->
 
-**How Participation Affects Your Grade**  Participation is worth a portion of your final grade given in the [overall breakdown above](https://www.students.cs.ubc.ca/~cs-430/#Grades). We'll calculate your participation grade on a per-class basis and then average these grades across the whole term to obtain your final grade. Before averaging, we'll drop the 4 classes in which you have the lowest grades. This means that you can miss 4 classes without any grade penalty. Please use this flexibility to avoid coming to class if you feel sick! You can also use it to manage other constraints that may arise in your personal life, deadlines from other courses, etc.
+**How Participation Affects Your Grade**  Participation is worth a portion of your final grade given in the overall breakdown. We'll calculate your participation grade on a per-class basis and then average these grades across the whole term to obtain your final grade. Before averaging, we'll drop the 3 classes in which you have the lowest grades. 
 
-**Calculating your Per-Class Participation Grade**  Your grade will depend on the number of times you raised your hand. To get a grade of 70%, you will need to raise your hands a (small) fixed number of times. We'll award higher grades by comparing your degree of participation to that of other students in the class. Specifically, we'll award you the largest number of points in the table below for which you meet the criterion:
+```{tip}
+The intention of this policy is that you can miss up to 3 classes this term without any grade penalty. Please use this flexibility to avoid coming to class if you feel sick!
+You are also welcome to use it to manage other constraints that may arise in your personal life, deadlines from other courses, etc.
+```
 
- 
-| Participate at least this many times                      | Earned Points (/10) |
-|-----------------------------------------------------------|---------------------|
-| 0                                                         | 0                   |
-| 1                                                         | 5                   |
-| 2                                                         | 6                   |
-| 3                                                         | 6.5                 |
-| 4                                                         | 7                   |
-| The median among students who participated at least once  | 8                   |
-| The maximum among students who participated at least once | 10                  |
+**Calculating your Per-Class Participation Grade** Your grade will depend on the number of times you raised your hand. To get a grade of 70%, you will need to raise your hands a (small) fixed number of times. We'll award higher grades by comparing your degree of participation to that of other students in the class. Specifically, we'll award you the largest number of points in the table below for which you meet the criterion:
 
-If your number of points is more than 4 but less than the median, we'll linearly interpolate accordingly; likewise if your number of points is more than the median but less than 10. For example, imagine the median was 8 and the maximum was 15. A student who raised his hand 6 times would receive 7 + (6-4)/(8-4) = 7.5 points, and another student who raised her hand 11 times would receive 8 + 2\*(11-8)/(15-8) = 8.86 points. Observe that the median student will get a grade of 80% for participation (even if the median is 4 or less), and hence half the class will get a grade above 80%.
+| Participate at least this many times | Earned Grade |
+|--------------------------------------|--------------|
+| 0                                    | 0            |
+| 1                                    | 50%          |
+| 2                                    | 60%          |
+| 3                                    | 65%          |
+| 4                                    | 70%          |
+| `N`                                  | 80%          |
+| `M`                                  | 100%         |
+
+```{attention}
+`N` represents the **median** among students who participated at least once.
+`M` represents the **maximum** among students who participated at least once.
+```
+
+If your number of points is more than 4 but less than the median, we'll linearly interpolate accordingly; likewise if your number of points is more than the median but less than the maximum. 
+The median student will get a grade of 80% for participation (even if the median is 4 or less) and hence, half the class will get a grade above 80%.
+
+```{tip}
+Here is a practical example:
+
+Imagine in a particular class, the median number of times a student spoke was 8 (of the students who participated), and the maximum was 15. 
+
+- A student who raised their hand 6 times would receive 7.5 points, with the following formula: 7 + (6-4)/(8-4).
+
+- Another student who raised their hand 11 times would receive 8.86 points, with the following formula: 8 + 2\*(11-8)/(15-8). 
+```
+<!-- 
+med + 2*(x-med)/(max-med)
+
+7 + (x-thr)/(med-thr)
+-->

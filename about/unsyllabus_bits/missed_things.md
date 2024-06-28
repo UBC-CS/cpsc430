@@ -18,14 +18,15 @@ I do not necessarily need to know all the personal details, just a high-level su
 
 I'm sure we will come to some agreement, generally the earlier you let me know of any special circumstances or accommodation, the more I'll be able to do for you!
 
-### What if I have to miss a deadline because of a wedding, birthday, funeral, religious holiday, or personal event ?
+<!-- ### What if I have to miss a deadline because of a wedding, birthday, funeral, religious holiday, or personal event ?
 
 No problem! There's not even any need to tell me, or ask for permission to miss due dates.
 The course is designed to give you maximum flexibility: 
 
 - Every deadline has a {{ GRACE_PERIOD }} grace period that is automatically applied.
 - There is no late penalty if you use the grace period
-- You can use the grace period an unlimited amount of time in the course (though if it happens every week and for every assignment, I might check in with you and gently encourage you not to leave things to the last minute)
+- You can use the grace period an unlimited amount of time in the course (though if it happens every week and for every assignment, I might check in with you and gently encourage you not to leave things to the last minute) 
+-->
 
 <!-- 
 ```{tip}
@@ -33,7 +34,7 @@ Remember, if you miss a Test for whatever reason, you can make it up the followi
 ```
  -->
 
-If you miss a deadline by more than the grace period, the general course policy is that you will not be able to get full credit for it, and in many cases, may even get a 0 for it.
+<!-- If you miss a due date, the general course policy is that you will not be able to get full credit for it, and in many cases, may even get a 0 for it. -->
 In the cases of Tests, it is not possible to get partial credit, or complete it at times other than within the scheduled windows.
 In some cases, I reserve the right to grant an extension or make alternate accommodations as needed.
 

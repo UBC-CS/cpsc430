@@ -1,5 +1,5 @@
 - All students must satisfy ALL conditions to pass the course:
-    1. Pass the Essay Quizzes with a grade of at least 50% (after resubmissions),
+    1. Pass the Essays with a grade of at least 50% (after resubmissions),
     1. Pass the Class Discussions with a grade of at least 50%,
     1. Pass the Final Exam with a grade of at least 40%.
 

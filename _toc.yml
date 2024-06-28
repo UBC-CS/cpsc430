@@ -8,66 +8,68 @@ parts:
   - file: about/waitlist
   - file: about/accommodations
   - file: about/participation
+  - file: about/essays
   - file: about/peer_review
-  - file: about/resubmissions
 
-- caption: Week 1
-  maxdepth: 1
-  chapters:
-    - file: notes/week01/class1A
-      title: Class 1A
-    - file: notes/week01/class1B
-      title: Class 1B
-    - file: notes/week01/class1C
-      title: Class 1C
-- caption: Week 2
-  maxdepth: 1
-  chapters:
-    - file: notes/week02/class2A
-      title: Class 2A
-    - file: notes/week02/class2B
-      title: Class 2B
-- caption: Week 3
-  maxdepth: 1
-  chapters:
-    - file: notes/week03/class3A
-      title: Class 3A
-    - file: notes/week03/class3B
-      title: Class 3B
-    - file: notes/week03/class3C
-      title: Class 3C
-- caption: Week 4
-  maxdepth: 1
-  chapters:
-    - file: notes/week04/class4A
-      title: Class 4A
-    - file: notes/week04/class4B
-      title: Class 4B
-    - file: notes/week04/class4C
-      title: Class 4C
-- caption: Week 5
-  maxdepth: 1
-  chapters:
-    - file: notes/week05/class5A
-      title: Class 5A
-    - file: notes/week05/class5B
-      title: Class 5B (Cancelled)
-    - file: notes/week05/class5C
-      title: Class 5C
-- caption: Week 6
-  maxdepth: 1
-  chapters:
-    - file: notes/week06/class6A
-      title: Class 6A
-    - file: notes/week06/class6B
-      title: Class 6B
+# - caption: Week 1
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/week01/class1A
+#       title: Class 1A
+#     - file: notes/week01/class1B
+#       title: Class 1B
+#     - file: notes/week01/class1C
+#       title: Class 1C
+# - caption: Week 2
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/week02/class2A
+#       title: Class 2A
+#     - file: notes/week02/class2B
+#       title: Class 2B
+# - caption: Week 3
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/week03/class3A
+#       title: Class 3A
+#     - file: notes/week03/class3B
+#       title: Class 3B
+#     - file: notes/week03/class3C
+#       title: Class 3C
+# - caption: Week 4
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/week04/class4A
+#       title: Class 4A
+#     - file: notes/week04/class4B
+#       title: Class 4B
+#     - file: notes/week04/class4C
+#       title: Class 4C
+# - caption: Week 5
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/week05/class5A
+#       title: Class 5A
+#     - file: notes/week05/class5B
+#       title: Class 5B (Cancelled)
+#     - file: notes/week05/class5C
+#       title: Class 5C
+# - caption: Week 6
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/week06/class6A
+#       title: Class 6A
+#     - file: notes/week06/class6B
+#       title: Class 6B
+
+
 
   # - file: about/doing_well
   # - file: about/faq
 
-- caption: Final Exam
-  chapters:
-  - file: notes/final
+# - caption: Final Exam
+#   chapters:
+#   - file: notes/final
 # - caption: Lab Materials
 #   chapters:
 #   - file: notes/labs
