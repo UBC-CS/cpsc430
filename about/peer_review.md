@@ -45,8 +45,8 @@ Your final peer review grade will be a weighted average of your individual peer 
 ```{tip}
 We will drop the 2 peer review weeks that produce the largest weighted average overall (not necessarily your two lowest grades, since later weeks are worth more).
 ```
-<!-- 
+
 ## Frequently Asked Questions (about Peer Reviews)
- -->
 
-
+Q: How many Peer Reviews do I need to do for each essay?
+> A: We anticipate each student will do 5 reviews for each essay. This number may be reduced based on how students' dependability scores change over time.
