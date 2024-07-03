@@ -11,11 +11,11 @@ parts:
   - file: about/essays
   - file: about/peer_review
 
-# - caption: Week 1
-#   maxdepth: 1
-#   chapters:
-#     - file: notes/week01/class1A
-#       title: Class 1A
+- caption: Week 1
+  maxdepth: 1
+  chapters:
+    - file: notes/week01/class1A
+      title: Class 1A
 #     - file: notes/week01/class1B
 #       title: Class 1B
 #     - file: notes/week01/class1C
