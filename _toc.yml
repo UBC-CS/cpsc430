@@ -16,8 +16,8 @@ parts:
   chapters:
     - file: notes/week01/class1A
       title: Class 1A
-#     - file: notes/week01/class1B
-#       title: Class 1B
+    - file: notes/week01/class1B
+      title: Class 1B
 #     - file: notes/week01/class1C
 #       title: Class 1C
 # - caption: Week 2

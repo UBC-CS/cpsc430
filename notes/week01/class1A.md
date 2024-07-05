@@ -18,7 +18,9 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Important links for today:
 
-TBD
+- [MTA](https://mta.students.cs.ubc.ca)
+- {{ PERUSALL_ENROL }}
+- [PrairieTest for 2024S2](https://ca.prairietest.com/pt/student/course/1492/enroll/218332326808)
 
 ## Acknowledgements
 
