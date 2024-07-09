@@ -5,4 +5,4 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 
 | Change Date | Summary | Rationale |
 |-------------|---------|-----------|
-| | | |
+| July 8, 2024 |Shifted topics forward by one day to make room for Effective Feedback | Feedback activity was a new addition|
