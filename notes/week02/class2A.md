@@ -14,7 +14,7 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Important links for today:
 
-- [Kant and Categorical Imperatives](https://www.youtube.com/watch?v=8bIys6JoEDw)
+No Links for today.
 
 ## Acknowledgements
 
