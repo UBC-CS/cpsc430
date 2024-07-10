@@ -25,8 +25,10 @@ parts:
   chapters:
     - file: notes/week02/class2A
       title: Class 2A
-#     - file: notes/week02/class2B
-#       title: Class 2B
+    - file: notes/week02/class2B
+      title: Class 2B
+    - file: notes/week02/class2C
+      title: Class 2C
 # - caption: Week 3
 #   maxdepth: 1
 #   chapters:

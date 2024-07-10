@@ -1,4 +1,4 @@
-# Class Meeting 2B
+# Class Meeting 2C
 
 ## Class slides
 
@@ -7,15 +7,13 @@ Feel free to download them to keep them locally, or leave them archived here and
 We will leave the website open even after the course is over for a reasonable number of years.
 
 <div>
-<iframe src="../../2024_S2_Class2B.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../2024_S2_Class2C.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S2_Class2B.pdf)
+[Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S2_Class2C.pdf)
 
 ## Important links for today:
 
-- [British Gov't Facial Recognition Cameras](https://www.theguardian.com/uk-news/2017/mar/14/public-faces-mass-invasion-of-privacy-as-big-data-and-surveillance-merge)
-- [Content that keeps users on the website](https://www.npr.org/sections/thetwo-way/2017/11/27/566769570/youtube-faces-increased-criticism-that-its-unsafe-for-kids)
 - [Retweets as dopamine hits](https://hai.stanford.edu/news/psychiatrists-perspective-social-media-algorithms-and-mental-health)
 - [CSAM controversy](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 
