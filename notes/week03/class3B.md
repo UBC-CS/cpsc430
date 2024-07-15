@@ -4,13 +4,13 @@
 
 This class we will have a formal debate with prepared statements.
 
-The two topics that we will debate on this class will be:
+<!-- The two topics that we will debate on this class will be: -->
 
 Be it resolved that (BIRT):
 
 1. Medical patents should be honoured even if they are costing human life.
 
-2. Companies that build AI models should be exempt from infringing IP rights
+<!-- 2. Companies that build AI models should be exempt from infringing IP rights -->
 
 Tomorrow half of you will get to debate topic 1 (while the other half watches), and the other half will get to debate topic 2. 
 

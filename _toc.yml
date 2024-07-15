@@ -29,15 +29,15 @@ parts:
       title: Class 2B
     - file: notes/week02/class2C
       title: Class 2C
-# - caption: Week 3
-#   maxdepth: 1
-#   chapters:
-#     - file: notes/week03/class3A
-#       title: Class 3A
-#     - file: notes/week03/class3B
-#       title: Class 3B
-#     - file: notes/week03/class3C
-#       title: Class 3C
+- caption: Week 3
+  maxdepth: 1
+  chapters:
+    - file: notes/week03/class3A
+      title: Class 3A
+    - file: notes/week03/class3B
+      title: Class 3B
+    - file: notes/week03/class3C
+      title: Class 3C
 # - caption: Week 4
 #   maxdepth: 1
 #   chapters:
