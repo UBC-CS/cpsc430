@@ -12,11 +12,19 @@ We will leave the website open even after the course is over for a reasonable nu
 
 [Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S2_Class4A.pdf)
 
-<!-- 
+```{dropdown} 1. Encryption
+    :class-container: sd-shadow-lg
+    :color: primary
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/jhXCTbFnK8o?si=Qk_rSdRT1CD7g7fE" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+</div>
+```
+
 ## Important links for today:
 
-- 
- -->
+- [Encryption 101](https://www.youtube.com/watch?v=jhXCTbFnK8o)
 
 ## Acknowledgements
 
