@@ -43,10 +43,10 @@ parts:
   chapters:
     - file: notes/week04/class4A
       title: Class 4A
-#     - file: notes/week04/class4B
-#       title: Class 4B
-#     - file: notes/week04/class4C
-#       title: Class 4C
+    - file: notes/week04/class4B
+      title: Class 4B
+    - file: notes/week04/class4C
+      title: Class 4C
 # - caption: Week 5
 #   maxdepth: 1
 #   chapters:

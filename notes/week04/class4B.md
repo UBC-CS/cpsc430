@@ -24,7 +24,7 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Important links for today:
 
-- [Mid-Course Feedback](https://ubc.ca1.qualtrics.com/jfe/form/SV_cIQ51ykOCbPRNsO)
+- [Mid-Course Feedback](https://bit.ly/cpsc430_2024S2)
 - [10 years after Snowden](https://www.youtube.com/watch?v=sb8zQPye5_I&pp=ygUWMTAgeWVhcnMgYWZ0ZXIgc25vd2Rlbg%3D%3D)
 
 ## Acknowledgements
