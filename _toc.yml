@@ -47,11 +47,11 @@ parts:
       title: Class 4B
     - file: notes/week04/class4C
       title: Class 4C
-# - caption: Week 5
-#   maxdepth: 1
-#   chapters:
-#     - file: notes/week05/class5A
-#       title: Class 5A
+- caption: Week 5
+  maxdepth: 1
+  chapters:
+    - file: notes/week05/class5A
+      title: Class 5A
 #     - file: notes/week05/class5B
 #       title: Class 5B (Cancelled)
 #     - file: notes/week05/class5C
