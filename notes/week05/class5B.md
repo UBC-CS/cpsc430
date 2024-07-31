@@ -15,8 +15,8 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Important links for today:
 
-- [Boeing 737 MACS](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
-
+- [Boeing 737 MACS (IEE)](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+- [Boeing 737 MACS (Seattle Times)](https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/)
 
 ## Acknowledgements
 
