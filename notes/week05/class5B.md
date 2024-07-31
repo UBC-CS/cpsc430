@@ -12,11 +12,11 @@ We will leave the website open even after the course is over for a reasonable nu
 
 [Download the Slides from today](https://github.com/ubc-cs/cpsc430/raw/main/files/2024_S2_Class5B.pdf)
 
-<!-- 
+
 ## Important links for today:
 
-- 
- -->
+- [Boeing 737 MACS](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+
 
 ## Acknowledgements
 
