@@ -19,11 +19,11 @@ Things may change depending on many factors so this is subject to change.
 | 4C    | July 26 | Computer and Network Security (7)        | 6                     | -               |
 |       |         | *End of Week 4*                          |                       |                 |
 | 5A    | July 29 | Computer and Network Security (7)        | 7                     | 6               |
-| 5B    | July 31 | Computer Reliability (8)                 | -                     | 7               |
-| 5C    | Aug 2   | Professional Ethics (9) & Work and Wealth (10)                 | 8                     | -               |
+| 5B    | July 31 | Computer Reliability (8) & Professional Ethics (9)    | -        | 7               |
+| 5C    | Aug 2   |  Work and Wealth (10) & AI               | 8                     | -               |
 |       |         | *End of Week 5*                          |                       |                 |
-|       | Aug 5   | **Stat Holiday - No Class**              | 9                     | 8               |
-| 6A    | Aug 7   | Artificial Intelligence                     | 10                    | 9               |
+| -     | Aug 5   | **Stat Holiday - No Class**              | 9                     | 8               |
+| 6A    | Aug 7   | Artificial Intelligence                  | 10                    | 9               |
 | -     | Aug 9   | Class cancelled!                         | -                     | 10              |
 |       |         | *End of Course!*                         |                       |                 |
 
