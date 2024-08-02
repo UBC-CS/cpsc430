@@ -54,8 +54,8 @@ parts:
       title: Class 5A
     - file: notes/week05/class5B
       title: Class 5B
-#     - file: notes/week05/class5C
-#       title: Class 5C
+    - file: notes/week05/class5C
+      title: Class 5C
 # - caption: Week 6
 #   maxdepth: 1
 #   chapters:
