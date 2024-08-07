@@ -15,8 +15,8 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Important links for today:
 
-- [Convention for Ethical use of Computer Science and Data Science techniques](https://docs.google.com/document/d/1wuUc2BM1aEwC3eDG118MLrtH76PO521L_5hP_Skh9ww/edit?usp=sharing)
-
+- [Real or Not: AI Generated Images](https://www.realornotquiz.com/)
+- [Detecting AI generated images](https://www.pcmag.com/articles/how-to-detect-ai-created-images)
 
 ## Acknowledgements
 
